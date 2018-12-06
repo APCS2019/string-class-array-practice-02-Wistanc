@@ -1,0 +1,17 @@
+A.
+ int a=findNthOccurrence(str,n);
+ for(i=0;i<str.length();i++){
+  if(){
+    return repl=a.substring(a,str.length);
+   }
+}
+
+
+
+
+B.
+  if(a.indexOf(str)!=-1){
+   return findNthOccurrence(str,n);
+  }else{
+    return -1;
+    }
